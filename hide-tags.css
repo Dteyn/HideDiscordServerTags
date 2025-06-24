@@ -1,0 +1,4 @@
+/* Hide Discord server tag (clan/guild tag) badges in all contexts */
+[class*="clanTagChiplet"] {
+  display: none !important;
+}
