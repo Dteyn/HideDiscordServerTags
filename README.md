@@ -2,6 +2,8 @@
 
 A simple browser extension to hide Discord’s new server tag badges in the web app.
 
+NOTE: Only works with Discord in web browser - does not work with standalone app.
+
 ## Installation
 
 1. Clone or download the repo.
