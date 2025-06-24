@@ -9,7 +9,7 @@ A simple browser extension to hide Discord’s new server tag badges in the web 
    - **Firefox:** Go to `about:debugging#/runtime/this-firefox` -> Load Temporary Add-on -> select `manifest.json`.
    - **Chrome:** Go to `chrome://extensions/`, enable Developer Mode, click "Load unpacked," and select the folder.
    - **Microsoft Edge:** Go to `edge://extensions/`, enable Developer Mode, click "Load unpacked," and select the folder.
-3. Open or refresh [discord.com](https://discord.com). Server tags will be hidden.
+3. Open or refresh Discord. Server tags will be hidden.
 
 ## How It Works
 
