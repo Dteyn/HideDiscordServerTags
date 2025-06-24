@@ -13,6 +13,8 @@ NOTE: Only works with Discord in web browser - does not work with standalone app
    - **Microsoft Edge:** Go to `edge://extensions/`, enable Developer Mode, click "Load unpacked," and select the folder.
 3. Open or refresh Discord. Server tags will be hidden.
 
+NOTE: With Firefox, you will need to repeat the above step each restart since it's not a signed add-on.
+
 ## How It Works
 
 Injects CSS to hide elements with class containing `clanTagChiplet` (Discord’s server tag badges).
