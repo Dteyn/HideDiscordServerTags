@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Hide Discord Server Tags",
+  "version": "1.0",
+  "description": "Hides user server tags in chat in Discord’s web app.",
+  "content_scripts": [
+    {
+      "matches": ["*://discord.com/*"],
+      "css": ["hide-tags.css"],
+      "run_at": "document_start"
+    }
+  ]
+}
