@@ -52,3 +52,5 @@ Injects CSS to hide elements with class containing `clanTagChiplet` (Discord’s
 - Only affects your browser’s view (not the standalone app).
 - Only affects server tags shown in chat. Tags are still shown in user listings.
 - Discord updates may break the selector; update the CSS if tags reappear.
+
+You are visitor: ![Page views](https://dteyn-rad-page.netlify.app/.netlify/functions/pageviews?repo=HideDiscordServerTags)
